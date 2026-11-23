@@ -1,0 +1,5 @@
+PackSense India catalogue snapshot (2026-11-03)
+Source: https://huggingface.co/datasets/PackSense/packsense-india
+Source attribution: product data from Open Food Facts contributors, https://world.openfoodfacts.org/
+Licence: Open Database License (ODbL) 1.0; derived database must retain attribution and share-alike terms.
+This snapshot is not independent of Open Food Facts and is not a sales dataset. Product images and retail prices are not included.
